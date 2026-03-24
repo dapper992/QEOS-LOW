@@ -1,1 +1,1 @@
-"C:\Program Files\qemu\qemu-system-i386.exe" -fda os.img -vga std -display sdl
+"C:\Program Files\qemu\qemu-system-i386.exe" -fda os.bin -vga std -display sdl
